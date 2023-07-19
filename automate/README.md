@@ -1,16 +1,14 @@
-# automate
+# Expo Router Example
 
-A new Flutter project.
+Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
-## Getting Started
+## 🚀 How to use
 
-This project is a starting point for a Flutter application.
+```sh
+npx create-expo-app -e with-router
+```
 
-A few resources to get you started if this is your first Flutter project:
+## 📝 Notes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Expo Router: Docs](https://expo.github.io/router)
+- [Expo Router: Repo](https://github.com/expo/router)
